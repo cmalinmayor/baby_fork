@@ -1,0 +1,12 @@
+tensorflow==1.14
+scipy<2.0.0,>=1.7.3
+numpy
+pandas
+scikit-image
+tqdm
+imageio
+pillow<9
+matplotlib
+aiohttp
+# gaussianprocessderivatives
+# scikit-learn==0.22.2
